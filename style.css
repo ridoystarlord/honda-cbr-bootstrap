@@ -1,0 +1,59 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* Common styles */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+span,
+.fas,
+.far,
+.feature-bike-subtitle {
+  color: #e76f51;
+}
+/* Common styles */
+
+/* header background */
+header {
+  background: #264653;
+}
+/* Modal button */
+.purchase-Btn {
+  background: #e76f51;
+}
+
+/* Features Bike image sizing */
+.features-bike-images {
+  filter: grayscale(100%);
+}
+/* Lastest News Blog Post */
+.read-more-Btn {
+  outline: thin solid #e76f51;
+  border-radius: 10px;
+  color: #e76f51;
+}
+
+/* FAQ */
+.accordion-button-backgroud {
+  background: #fff !important;
+  color: black !important;
+}
+.accordion-items {
+  border: 1px solid #d5e5fb !important;
+}
+.accordion-items h2 button strong {
+  font-size: 20px;
+}
+
+/* carousel background */
+.slider-background {
+  background: #70cbea;
+}
